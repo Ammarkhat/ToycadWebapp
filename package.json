@@ -1,0 +1,23 @@
+{
+  "name": "makea3dtoy",
+  "version": "1.0.0",
+  "description": "Make a 3D Toy",
+  "main": "index.js",
+  "homepage":"http://Ammarkhat.github.io/MakeA3DToy",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ammarkhat/MakeA3DToy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ammarkhat/MakeA3DToy/issues"
+  },
+  "homepage": "https://github.com/Ammarkhat/MakeA3DToy#readme",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
